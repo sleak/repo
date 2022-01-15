@@ -35,7 +35,7 @@
     "humanize-ms": "1.0.1",
     "jquery": "^3.4.0",
     "lodash": "4.17.12",
-    "marked": "0.7.0",
+    "marked": "4.0.10",
     "method-override": "latest",
     "moment": "2.19.3",
     "mongoose": "4.13.17",
